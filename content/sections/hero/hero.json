@@ -1,0 +1,22 @@
+{
+  "intro": "hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "",
+  "subtitle": {
+    "prefix": "my name is ",
+    "highlight": "kelly",
+    "suffix": ", and this is my website."
+  },
+  "description": "also, this site is under construction. tread carefully.",
+  "socialProfiles": {
+    "from": ["linkedin", "github", "mail"],
+    "showIcons": false
+  }
+}
