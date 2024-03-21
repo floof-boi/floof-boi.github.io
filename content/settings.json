@@ -17,13 +17,13 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "kelly fesler" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "about", "url": "/#about" },
+        { "label": "interests", "url": "/#features" },
+        { "label": "previous work", "url": "/#github" },
+        { "label": "blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -36,7 +36,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }
