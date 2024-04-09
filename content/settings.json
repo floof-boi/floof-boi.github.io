@@ -21,8 +21,8 @@
     "navigation": {
       "header": [
         { "label": "about", "url": "/#about" },
-        { "label": "interests", "url": "/#features" },
-        { "label": "previous work", "url": "/#github" },
+        { "label": "features", "url": "/#features" },
+        { "label": "prior work", "url": "/#prior-work" },
         { "label": "blog", "url": "/blog" }
       ],
       "ctaButton": {
