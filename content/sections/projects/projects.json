@@ -2,40 +2,53 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "@ MICROSOFT",
+      "title": "Microsoft Viva Engage: new Articles feature",
+      "description": "I was one of two backend engineers on a feature crew that developed a brand-new post type from scratch — Articles, publicly released in March 2024.",
+      "tags": ["General Availability", "Java", "GraphQL", "RFC Authoring & Review", "Microsoft Viva Engage"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/viva-engage-articles.png",
+        "alt": "Microsoft Viva Engage: new Articles feature",
+        "linkTo": "https://techcommunity.microsoft.com/t5/viva-engage-blog/articles-now-available-in-viva-engage/ba-p/4070877"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://techcommunity.microsoft.com/t5/viva-engage-blog/articles-now-available-in-viva-engage/ba-p/4070877"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "@ MICROSOFT",
+      "title": "Microsoft Viva Engage: Copilot impression discounting",
+      "description": "Built the backend implementation for impression discounting for Viva Engage Copilot's conversation starters, from firing the 'starter served' event from the UI down to database-level per-user tracking.",
+      "tags": ["Copilot", "Recommender Systems", "Kafka", "Distributed Systems", "Microsoft Viva Engage"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/viva-engage-copilot.png",
+        "alt": "Microsoft Viva Engage: Copilot impression discounting"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://techcommunity.microsoft.com/t5/viva-engage-blog/announcing-copilot-in-viva-engage/ba-p/3771323"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "PERSONAL",
+      "title": "Spotify Open Recommendation Engine",
+      "description": "the whole kit and kaboodle",
+      "tags": ["Spotify API", "Project Management"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Spotify Open Recommendation Engine"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://github.com/Spotify-Open-Recommendation-Engine/spotify-open-recommendation-engine"
         }
       ]
     }
